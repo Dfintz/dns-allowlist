@@ -6,5 +6,5 @@
 #
 # User-provided entries below:
 
-plaveckaskolabrno.cz
-*.plaveckaskolabrno.cz
+!plaveckaskolabrno.cz
+!*.plaveckaskolabrno.cz
